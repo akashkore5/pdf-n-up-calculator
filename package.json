@@ -1,0 +1,25 @@
+{
+  "name": "@akashkore5/pdf-n-up-calculator",
+  "version": "1.0.0",
+  "description": "Grid, scaling, and offset calculation utility for 2-in-1, 4-in-1, and N-up PDF page imposition and printing.",
+  "main": "index.js",
+  "keywords": [
+    "pdf",
+    "n-up",
+    "2-in-1",
+    "4-in-1",
+    "imposition",
+    "pdf-printing",
+    "editpdfkit"
+  ],
+  "author": "Akash Kore <https://github.com/akashkore5>",
+  "homepage": "https://www.editpdfkit.com/tools/pdf-n-up",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashkore5/pdf-n-up-calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akashkore5/pdf-n-up-calculator/issues"
+  },
+  "license": "MIT"
+}
